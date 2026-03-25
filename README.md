@@ -1,4 +1,4 @@
-# Hey, I'm Walter (NooRotic) 👐🏽
+# Hey, I'm Walt aka NooRotic 👐🏽
 
 **Senior Software Engineer** · Video Playback · Streaming · Chromecast · TypeScript
 Philadelphia, PA · [walter.pollardjr.com](https://walter.pollardjr.com)
