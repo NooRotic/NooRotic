@@ -17,18 +17,25 @@ I've been building for the web through every major era: the Flash boom, LAMP was
 
 * LAMP stack — PHP + Flash ran the internet
 * Flash ActionScript 2 → 3! — and we thought it would last forever
+* Adobe turns Flash into dancing pandas and Apple twists the dagger 🗡️
+* The REACT era begins — virtual DOMs, SSR/SSG, component everything
+* AI agentic era learns from our mistakes and writes code I would
+
+<details>
+<summary>⬇️ <b>the full timeline...</b></summary>
+<br/>
+
 * .NET rises and everyone jumps on ASP
 * Git kicks SVN to the curb
 * jQuery makes everyone start thinking... libraries
 * Ruby and those Rails
 * MVC era — who didn't have a model, view, controller?
 * Backbone said Flash isn't the only way to do SPA
-* Adobe turns Flash into dancing pandas and Apple twists the dagger 🗡️
 * Can we say TOOLING? — TypeScript, Webpack, Babel, oh my!
 * Node.js arrives and Express opens the door
-* The REACT era begins — virtual DOMs, SSR/SSG, component everything
 * Tailwind makes CSS actually enjoyable (fight me)
-* AI agentic era learns from our mistakes and writes code I would
+
+</details>
 
 ## The Career
 
