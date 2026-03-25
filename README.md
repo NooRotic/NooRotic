@@ -5,6 +5,8 @@ Philadelphia, PA · [walter.pollardjr.com](https://walter.pollardjr.com)
 
 ---
 
+<img src="assets/wutang.png" height="40" align="left" style="margin-right: 10px;" />
+
 ## C.R.E.A.M : Code Rules Everything Around ME
 
 ### 25 years. Still shipping. Still learning.
