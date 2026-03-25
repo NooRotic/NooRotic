@@ -16,7 +16,7 @@ I've been building for the web through every major era: the Flash boom, LAMP was
 ## oh the things I've seen
 
 * LAMP stack — PHP + Flash ran the internet
-* Flash ActionScript 2 — and we thought it would last forever
+* Flash ActionScript 2 → 3! — and we thought it would last forever
 * .NET rises and everyone jumps on ASP
 * Git kicks SVN to the curb
 * jQuery makes everyone start thinking... libraries
@@ -36,9 +36,13 @@ From '99 til Adobe bought and rode poor Flash into its grave. "You know JavaScri
 
 Transitioned into JavaScript and haven't looked back. Ad agency days, freelancing through the .com bubble busting, countless prototypes, and eventually settling into what I was meant to do: **video player development**.
 
-From full video download, to early buffering, the gift of RTMP/E streaming led me to Comcast.
+From "click to download the full video" to early buffering to the gift of RTMP/E streaming — that path led me to Comcast.
 
 ## 13+ Years at Comcast
+
+My Comcast story actually started at FEARnet — the horror network. As a Flash AS3 developer I was building micro-sites for tentpole movie events, horror promotions, live web interviews with people in the film industry. It was a creative playground and for a while it was fun and challenging. Then the 2008 crash hit and I found myself freelancing.
+
+After some contractor years I came back to Comcast, this time with CIM (Comcast Interactive Media) — and that's where everything changed.
 
 For **13 years** I was the Subject Matter Expert for Xfinity Stream's HD video player — the playback engine behind one of the largest cable platforms in the country. I shipped ad systems that served millions of impressions, built DRM pipelines that protected premium content, and worked directly with Google's Cast team to bring Chromecast from MVP to production.
 
