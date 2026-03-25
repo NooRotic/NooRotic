@@ -71,6 +71,8 @@ I've been AI-assisted since code-complete in Flex Builder was pretty good, watch
 - **Frontend** — React, Next.js, SvelteKit, TypeScript, Tailwind CSS, Electron
 - **AI-Native Workflow** — Claude Code daily driver, Gemini integrations, building AI into real products
 - **Debugging at Scale** — custom diagnostic tooling used org-wide at Comcast
+- **Communication** — can explain a video pipeline to a VP and a CSS bug to a junior dev in the same meeting. ASL speaker.
+- **Process Instinct** — 25 years across agencies, startups, and enterprise taught me when process helps a team ship and when it's red tape slowing everyone down
 
 ---
 
