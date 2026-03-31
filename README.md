@@ -11,7 +11,7 @@ Philadelphia, PA · [walter.pollardjr.com](https://walter.pollardjr.com)
 
 I wrote my first line of production code in **1999** — and I haven't stopped since.
 
-I've been building for the web through every major era: the Flash boom, LAMP was the only REAL stack, the rise of streaming video, the shift to adaptive bitrate, the Chromecast revolution, and now AI-augmented engineering. That's not a bullet point — that's **pattern recognition you can't shortcut**.
+I've been building for the web through every major era: the Flash boom, LAMP was the only REAL stack, the rise of streaming video, the shift to adaptive bitrate, the Chromecast revolution, and now AI-augmented engineering. 
 
 ## oh the things I've seen
 
@@ -25,6 +25,7 @@ I've been building for the web through every major era: the Flash boom, LAMP was
 <summary>⬇️ <b>the full timeline...</b></summary>
 <br/>
 
+* ActionScript3 opens up AS3 backend development
 * .NET rises and everyone jumps on ASP
 * Git kicks SVN to the curb
 * jQuery makes everyone start thinking... libraries
