@@ -7,14 +7,13 @@ Philadelphia, PA · [walter.pollardjr.com](https://walter.pollardjr.com)
 
 <h2><img src="assets/wutang.png" height="32" /> C.R.E.A.M : Code Rules Everything Around ME</h2>
 
-### 25 years. Still shipping. Still learning.
+### 25 years. Still shipping. Still learning. Still loving what I do.
 
-I wrote my first line of production code in **1999** — and I haven't stopped since.
+I wrote my first line of production code in **1999** and I've been learning ever since.
 
 I've been building for the web through every major era: the Flash boom, LAMP was the only REAL stack, the rise of streaming video, the shift to adaptive bitrate, the Chromecast revolution, and now AI-augmented engineering. 
 
 ## oh the things I've seen
-
 * LAMP stack — PHP + Flash ran the internet
 * Flash ActionScript 2 → 3! — and we thought it would last forever
 * Adobe turns Flash into dancing pandas and Apple twists the dagger 🗡️
@@ -50,7 +49,7 @@ From "click to download the full video" to early buffering to the gift of RTMP/E
 
 My Comcast story actually started at FEARnet — the horror network. As a Flash AS3 developer I was building micro-sites for tentpole movie events, horror promotions, live web interviews with people in the film industry. It was a creative playground and for a while it was fun and challenging. Then the 2008 crash hit and I found myself freelancing.
 
-After some contractor years I came back to Comcast, this time with CIM (Comcast Interactive Media) — and that's where everything changed.
+After some contractor years I came back to Comcast, this time with CIM (Comcast Interactive Media); and that's where everything changed.
 
 For **13 years** I was the Subject Matter Expert for Xfinity Stream's HD video player — the playback engine behind one of the largest cable platforms in the country. I shipped ad systems that served millions of impressions, built DRM pipelines that protected premium content, and worked directly with Google's Cast team to bring Chromecast from MVP to production.
 
