@@ -93,7 +93,7 @@ I've been AI-assisted since code-complete in Flex Builder was pretty good, watch
 |---|---|
 | [**wsp-cast-sender**](https://github.com/NooRotic/wsp-cast-sender) | Next.js 15 portfolio site that doubles as a working Chromecast sender — HLS/DASH playback, Video.js, Dash.js, full CI/CD pipeline |
 | [**RipTheLeetBot**](https://github.com/NooRotic/RipTheLeetBot) | Electron interview prep app — CRT terminal aesthetic, Google Gemini AI, calibrated for senior engineers |
-| [**rtmp-hub-spot**](https://github.com/NooRotic/rtmp-hub-spot) | Electron WebRTC-to-RTMP gateway — hardware-accelerated FFmpeg, Node Media Server, Windows NT 4.0 UI |
+| [**Panelcast**](https://github.com/NooRotic/panelcast) | Electron WebRTC-to-RTMP gateway — hardware-accelerated FFmpeg, Node Media Server, Windows NT 4.0 UI. Formerly rtmp-hub-spot |
 | [**JobTrackr**](https://github.com/NooRotic/JobTrackr) | SvelteKit 5 job search dashboard — priority tiers, confidence scoring, title analytics |
 | [**local_heat_server**](https://github.com/NooRotic/local_heat_server) | WebSocket server emulating Twitch Heat extension API for offline interactive dev |
 
