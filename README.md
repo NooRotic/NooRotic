@@ -1,7 +1,7 @@
 # Hey, I'm Walt aka NooRotic 👐🏽
 
 **Senior Software Engineer** · Video Playback · Streaming · Chromecast · TypeScript
-Philadelphia, PA · [walter.pollardjr.com](https://walter.pollardjr.com)
+Philadelphia, PA · [portfolio.pollardjr.com](https://portfolio.pollardjr.com)
 
 ---
 
@@ -119,4 +119,4 @@ I've been AI-assisted since code-complete in Flex Builder was pretty good, watch
 
 I'm always up for conversations about video engineering, streaming architecture, Chromecast development, or what it's like to build for the web across three decades.
 
-📧 walter@pollardjr.com · 🌐 [walter.pollardjr.com](https://walter.pollardjr.com) · 💼 [LinkedIn](https://www.linkedin.com/in/walterpollardjr/)
+📧 walter@pollardjr.com · 🌐 [portfolio.pollardjr.com](https://portfolio.pollardjr.com) · 💼 [LinkedIn](https://www.linkedin.com/in/walterpollardjr/)
